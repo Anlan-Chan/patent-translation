@@ -1,0 +1,27 @@
+2-(2-氟-4-氯-5-氨基苯基)-4-二氟甲基-5-甲基-1,2,4-三唑-3-酮	2-(2-fluoro-4-chloro-5-aminophenyl)-4- difluoromethyl -5- methyl-1,2,4-triazole-3-one
+
+氨丙基甲基二乙氧基硅烷	3-aminopropyl-methyl-diethoxysilane
+
+1 癸基咪唑六氟磷酸盐	1-Decylimidazolium Hexafluorophosphate
+
+二甲基丙烯酸乙二醇酯	Ethylene dimethacrylate
+
+
+Titanium-based photocatalyst doped with niobium and vanadium and preparation method and application thereof
+
+The present invention discloses a titanium-based photocatalyst doped with niobium and vanadium, a preparation 
+method and an application thereof, and belongs to the field of inorganic photocatalytic materials.
+
+According to a stoichiometric ratio of TiTa<sub>18 <i>x y</i></sub>Nb<sub><i>x</i></sub>V<sub><i>y</i></sub>O<sub>47</sub>, 
+wherein <i>x</i> and <i>y</i> are the molar amounts of niobium Nb<sup>5+</sup> vanadium V<sup>5+</sup> ions replacees Ta, 
+respectively. <i>x</i> is 0.1～5.4,<i>y</i> is 0.1～2，weigh raw materials containing Ti<sup>4+</sup>, Nb<sup>5+</sup>,
+ Ta<sup>5+</sup> and V<sup>5+</sup> ions，and weigh a proper amount of the compound containing Li<sup>+</sup> ion as a 
+ sintering aid. 
+ 
+ A step-by-step sintering process is employed to obtain a titanium-based photocatalyst which is doped with niobium and 
+ vanadium in a pure phase. The titanium-based photocatalyst obtained by doping niobium Nb and vanadium V enhances the 
+ absorption in the visible light region. At the same time, the lattice perturbation greatly improves the separation efficiency 
+ of photogenerated charges and enhances the photocatalytic ability.
+
+ 
+The preparation process is simple, the cost is low, and the photocatalytic material has good stability. It can degrade organic pollutants under ultraviolet light and near-ultraviolet light, especially degrade organic pollutants in water, which is beneficial to protect the environment.
